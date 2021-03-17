@@ -8,8 +8,12 @@
 
 ## More information about this project:
 
+[Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
+
+[Android development](https://developer.android.com/)
+
 [Gamification](https://en.wikipedia.org/wiki/Gamification)
 
 [Gamification of learning](https://en.wikipedia.org/wiki/Gamification_of_learning)
 
-[Android development](https://developer.android.com/)
+

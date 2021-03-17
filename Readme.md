@@ -1,4 +1,4 @@
-##References in the poster:
+## References in the poster:
 
 [1] Statcounter. 2021. Mobile Operating System Market Share Worldwide. [ONLINE] Available at: https://gs.statcounter.com/os-market-share/mobile/worldwide. [Accessed 16 March 2021].
 
@@ -6,3 +6,10 @@
 
 [3] Dsruptr. 2020. WHAT IS SPRINT 0?. [ONLINE] Available at: https://dsruptr.com/2020/07/13/what-is-sprint-0/. [Accessed 16 March 2021].
 
+## More information about this project:
+
+[Gamification](https://en.wikipedia.org/wiki/Gamification)
+
+[Gamification of learning](https://en.wikipedia.org/wiki/Gamification_of_learning)
+
+[Android development](https://developer.android.com/)
